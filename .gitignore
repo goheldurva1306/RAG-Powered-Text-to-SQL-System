@@ -1,0 +1,4 @@
+.env
+student.db
+chroma_store/
+__pycache__/
